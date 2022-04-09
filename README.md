@@ -1,4 +1,3 @@
-# dns-mtr-iptocidr
 # MTR-CWB-IPS
 通过本地MTR查询收集所有DNS路由路径的IP和域名，转化成对应的CIDR，区分本地网路由CIDR，骨干网路由CIDR，国际网路由CIDR，实现网络路由线路精准分类，根据自己的本地网络需要添加新的本地网络路由CIDR，骨干网路由CIDR，进行网络路由优化，实现有效网络传输稳定性。
 Collect IP and domain names of all DNS routing paths through local MTR query, convert them into corresponding CIDRs, distinguish local network routing CIDRs, backbone network routing CIDRs, and international network routing CIDRs, achieve the precise classification of network routing lines, and add them according to your own local network needs. New local network routing CIDR, backbone network routing CIDR, network routing optimization, to achieve effective network transmission stability.
